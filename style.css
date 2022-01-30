@@ -46,7 +46,7 @@ h3 {
     width: 90px;
     height: 90px;
     border-radius: 50%;
-    border: 2px solid white;
+    border: 2px solid rgb(0, 225, 255);
 }
 
 .img-container {
@@ -61,7 +61,7 @@ h3 {
 
 .projects-container > a {
     text-decoration: none;
-    color: #0883ff;
+    color: rgb(0, 225, 255);
     padding: 5%;
     display: block;
 }
