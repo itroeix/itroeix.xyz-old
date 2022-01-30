@@ -34,10 +34,8 @@ h3 {
 .projects-button {
     text-decoration: none;
     padding: 3%;
-    color: white;
+    color: rgb(0, 225, 255);
     border:none;
-    border:solid 2px white;
-    border-radius: 5px;
     background: transparent;
     font-size: 25px;
     cursor: pointer;
