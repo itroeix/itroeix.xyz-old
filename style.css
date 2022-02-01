@@ -69,6 +69,11 @@ h3 {
     display: block;
 }
 
+.contact-container {
+    text-align: center;
+    display: block;
+}
+
 .projects-container > a {
     text-decoration: none;
     color: rgb(0, 225, 255);
