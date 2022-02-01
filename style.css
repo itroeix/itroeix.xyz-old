@@ -41,6 +41,16 @@ h3 {
     cursor: pointer;
 }
 
+.contact-button {
+    text-decoration: none;
+    padding: 3%;
+    color: rgb(0, 225, 255);
+    border:none;
+    background: transparent;
+    font-size: 25px;
+    cursor: pointer;
+}
+
 .avatar {
     vertical-align: middle;
     width: 90px;
